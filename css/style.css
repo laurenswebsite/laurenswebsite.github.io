@@ -1,0 +1,144 @@
+body{
+background-color: silver;
+font-family: "consolas";
+}
+
+.element{
+text-align: center;
+font-weight: bold;
+font-family: 'Itim', cursive;
+}
+
+.heading{
+background-image: url("..img/banner.jpg");
+text-align: center;
+font-family: 'Homemade Apple', cursive;
+color: white;
+padding-top: 8vh;
+padding-bottom: 10vh;
+}
+
+
+
+
+.airbender{
+	width: 100%;
+}
+
+.waterbender{
+	width: 93%;
+}
+
+.earthbender{
+	width: 88%;
+}
+
+.firebender{
+	width: 85%;
+}
+
+
+.img-width{
+width: 100%;
+}
+
+
+.header-img{
+background-image: url("../img/back.jpg");
+height: 100vh;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+
+.header-text{
+text-align: center;
+color: silver;
+padding-top: 15vh;
+padding-bottom: 10vh;
+font-family: 'Homemade Apple', cursive;
+}
+
+.icons{
+color: black;
+text-align: center;
+padding-top: 55vh;
+}
+
+
+.box{
+background-color: #f1e2cb;
+text-align: center;
+color: gray;
+padding: 10vh;
+}
+
+.heading2{
+font-family: 'Homemade Apple', cursive;
+color: silver;
+padding-top: 1vh;
+padding-bottom: 7vh;
+}
+
+.map{
+width: 90%;
+}
+
+.map-text{
+font-size: 20px;
+line-height: 1.8;
+font-family: 'Itim', cursive;
+}
+
+
+.box2{
+background-color: silver;
+text-align: center;
+color: white;
+padding: 10vh;
+}
+
+.heading3{
+text-align: center;
+font-family: 'Homemade Apple', cursive;
+color: white;
+padding-top: 0vh;
+padding-bottom: 6vh;
+}
+
+.aang{
+height: 10%;
+}
+.katara{
+height: 10%;
+}
+.zuko{
+height: 10%;
+}
+.sokka{
+height: 10%;
+}
+.toph{
+height: 10%;
+}
+.iroh{
+height: 10%;	
+}
+
+.name{
+color: black;
+font-weight: bold;
+}
+
+.name-description{
+color: black;
+font-size: 14px;
+}
+
+.box3{
+background-color: #f1e2cb;
+text-align: center;
+color: white;
+padding: 10vh;
+}
