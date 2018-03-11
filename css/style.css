@@ -1,6 +1,6 @@
 body{
 background-color: silver;
-font-family: "consolas";
+font-family: 'Inconsolata', monospace;
 }
 
 .element{
@@ -22,7 +22,7 @@ padding-bottom: 10vh;
 
 
 .airbender{
-	width: 100%;
+	width: 110%;
 }
 
 .waterbender{
@@ -108,22 +108,22 @@ padding-bottom: 6vh;
 }
 
 .aang{
-height: 10%;
+height: 25vh;
 }
 .katara{
-height: 10%;
+height: 25vh;
 }
 .zuko{
-height: 10%;
+height: 25vh;
 }
 .sokka{
-height: 10%;
+height: 25vh;
 }
 .toph{
-height: 10%;
+height: 25vh;
 }
 .iroh{
-height: 10%;	
+height: 25vh;	
 }
 
 .name{
@@ -141,4 +141,31 @@ background-color: #f1e2cb;
 text-align: center;
 color: white;
 padding: 10vh;
+}
+
+.heading5{
+text-align: center;
+font-family: 'Homemade Apple', cursive;
+color: silver;
+padding-top: 0vh;
+padding-bottom: 6vh;
+}
+
+.appa{
+height: 30vh;	
+}
+
+.appa2{
+height: 30vh;	
+}
+
+.appa-text{
+font-size: 20px;
+line-height: 1.8;
+font-family: 'Itim', cursive;
+color: gray;
+}
+
+.fa-arrow-up{
+color: black;
 }
